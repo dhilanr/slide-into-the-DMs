@@ -1,7 +1,7 @@
 """ This is a simple Python script for accessing the Twitter API and sending
 a series of direct messages with various options (quick-reply, media, etc.)
 
-Additionally, this script includes a small sentiment analyzer for auto replies! """
+see direct_message_analyzer.py for small script sentiment analyzer for auto-reply! """
 
 
 import tweepy  # note changes to tweepy/api.py --- CANNOT use standard Tweepy library distribution
